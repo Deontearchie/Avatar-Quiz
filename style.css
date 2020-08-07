@@ -4,10 +4,12 @@
 }
 
 body {
-    background-color: aquamarine;
+    background-image: url(Avatarimg.jpg);
+    background-size: 1899px auto;
 }
 
 .avatarHea {
+    color: white;
     text-align: center;
     position: Absolute;
     margin: 0;

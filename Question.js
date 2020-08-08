@@ -1,4 +1,5 @@
 var avQuestions = [{
+
         question: "How long was Aang gone from the world?",
         Answer: {
             a: "50yrs",
@@ -10,6 +11,7 @@ var avQuestions = [{
 
     },
     {
+
         question: "what was the Fire Lord name that Aang had to defeat?",
         Answer: {
             a: "Roku",
@@ -19,6 +21,7 @@ var avQuestions = [{
         correctAnswer: "b"
     },
     {
+
         question: "What was the name of Aang of Bison?",
         Answer: {
             a: "MoMo",
@@ -29,6 +32,4 @@ var avQuestions = [{
 
 
     }
-
-
 ];

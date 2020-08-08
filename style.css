@@ -5,7 +5,7 @@
 
 body {
     background-image: url(Avatarimg.jpg);
-    background-size: 1899px auto;
+    background-size: cover;
 }
 
 .avatarHea {
@@ -29,4 +29,8 @@ body {
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     font-size: xx-large;
+}
+
+.navbar-nav {
+    color: blue;
 }
